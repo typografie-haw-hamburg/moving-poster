@@ -1,10 +1,9 @@
 function setup() {
-  createCanvas(windowWidth, windowHeight);
-  background(0, 0, 0);
+  createCanvas(700, 1000);
+  background(255, 0, 0);
 }
 
 function draw() {
-  var currtime = millis();
   ellipse(random(width), random(height), 80);
 }
 

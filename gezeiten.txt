@@ -1,0 +1,3 @@
+  https://www.pegelonline.wsv.de/webservice/dokuRestapi
+  https://www.pegelonline.wsv.de/webservices/rest-api/v2/stations/KETZIN/W.json?includeCharacteristicValues=true
+  https://www.pegelonline.wsv.de/webservices/rest-api/v2/stations/KETZIN/W/currentmeasurement.json

@@ -25,8 +25,8 @@ p5.midi.onInput = function(e) {
   var note = e.data[1];
   var velocity = e.data[2];
 
-  console.log(note);
-  console.log(velocity);
+  print(note);
+  print(velocity);
 
   if(note === 8) {
     circleSize = velocity * 8;
