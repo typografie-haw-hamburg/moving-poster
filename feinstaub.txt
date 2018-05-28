@@ -1,0 +1,3 @@
+http://api.luftdaten.info/v1/sensor/13779/
+
+Eigene Sensor-IDs können unter maps.luftdaten.info rausgesucht werden. Da auf einen bestimmten Bereich einzoomen, ein Sechseck anklicken und rechts befindet sich dann eine Liste der verschiedenen IDs.
